@@ -1,0 +1,13 @@
+.completed td {
+    text-decoration: line-through;
+}
+table.tasks-list .action {
+    width: 250px;
+}
+.nav-tabs li.nav-item a.nav-link {
+    cursor: pointer;
+    color: #007bff;
+}
+.nav-tabs li.nav-item a.nav-link.active {
+    color: #495057;
+}
